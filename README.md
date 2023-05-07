@@ -1,5 +1,9 @@
 # Minecraft Forge modding demo
 
+## About this demo mod
+
+This really basic mod brings back the OG Notch apple crafting recipe :). 
+
 ## Source installation information for modders:
 
 ### Step 1
